@@ -1,0 +1,120 @@
+.sax {
+    font-family: inherit;
+    max-width: 800px;
+    margin: auto;
+}
+
+.morepl {
+    margin: 0;
+    margin-bottom: 20px;
+    
+}
+
+.morepl > a {
+    width: 300px;
+    height: auto;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.naxavernagir {
+    background-image: url(roditeli\ naruto.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(255, 85, 0);
+    margin: 0%;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.naxavernagir-div {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.minato-div {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.minato {
+    background-color: black;
+    border-radius: 30px;
+    margin: 0;
+    width: 420px;
+    height: auto;
+    padding-left: auto;
+    padding-right: auto;
+    color: yellow;
+    text-align: center;
+    font-size:  100px;
+}
+
+.minato-nkar {
+    width: 100%;
+    height: 450px;
+}
+
+.minato-nkar-div {
+    margin: 0;
+    height: 450px;
+    margin-bottom: 20px;
+}
+
+.minato-nkaragrutyun {
+    margin: 0;
+    font-size: 40px;
+}
+
+.minato-nkaragrutyun-div {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.kushina-div {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.kushina {
+    background-color: black;
+    border-radius: 30px;
+    margin: 0;
+    width: 420px;
+    height: auto;
+    padding-left: auto;
+    padding-right: auto;
+    color: red;
+    text-align: center;
+    font-size:  100px;
+}
+
+.kushina-nkar-div {
+    margin: 0;
+    height: 450px;
+    margin-bottom: 20px;
+}
+
+.kushina-nkar {
+    margin: 0;
+    width: 100%;
+    height: 450px;
+}
+
+.kushina-nkaragrutyun-div {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.kushina-nkaragrutyun{
+    margin: 0;
+    font-size: 40px;
+}

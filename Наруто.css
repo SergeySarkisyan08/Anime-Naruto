@@ -1,0 +1,51 @@
+.sax {
+    font-family: inherit;
+    max-width: 800px;
+    margin: auto;
+}
+
+.naruto-skizb-div {
+    margin-bottom: 20px;
+}
+
+.naruto-skizb {
+    background-image: url(наруто.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(255, 85, 0);
+    margin: 0%;
+    height: auto;
+    padding-top: 155px;
+    padding-bottom: 155px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.morepl {
+    margin: 0;
+    margin-bottom: 20px;
+    
+}
+
+.morepl > a {
+    width: 300px;
+    height: auto;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 80px;
+    display: inline-block;
+}
+
+.wikipedia-naruto {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.wikipedia-naruto > h4 {
+    margin: 0;
+    font-size: 40px;
+}
